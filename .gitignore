@@ -1,3 +1,9 @@
+#It makes this folder
+Poses
+
+#Used for Training
+Hands 1
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
